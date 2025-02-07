@@ -1,7 +1,7 @@
 //
 //  ContentView.swift
 //  Memorize
-//
+//~
 //  Created by Mehmet Ali Ertorer on 7.02.2025.
 //
 
